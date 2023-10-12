@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Added AEM 30-0300 as wideband on Analog 0
+- Inital tune, based on basemap tune. Removed unneeded features such as immobilization disabled, etc.
+
+### Changed
+
+- Changed the basetune to the k24-tsx-stock.kal
+
 ## [v0.0.1] - 2023-07-29
 
 ### Added
