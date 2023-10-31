@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Changed the basetune to the k24-tsx-stock.kal
+- Upgraded to v4.5.6 (Firemware 22) on 2023-05-25
 
 ## [v0.0.1] - 2023-07-29
 
