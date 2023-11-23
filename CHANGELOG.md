@@ -12,14 +12,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added AEM 30-0300 as wideband on Analog 0
-- Inital tune, based on basemap tune. Removed unneeded features such as immobilization disabled, etc.
 
 ### Changed
 
 - Tuned by Stage Performance on 2023-11-09.
 - Changed the basetune to the k24-tsx-stock.kal
-- Upgraded to v4.5.6 (Firemware 22) on 2023-05-25
+- Upgraded to v4.5.6 (Firmware 22) on 2023-05-25
 - Changed to RDX injectors (410cc)
+
+### Removed
+
+- Removed unneeded features such as immobilization disabled, etc.
 
 ### Current Engine Mods (stock or otherwise)
 - [KPower Industries Intake Manifold](https://kpower.industries/collections/kpowere30-swap-components/products/kmiata-rwd-intake-manifold)
